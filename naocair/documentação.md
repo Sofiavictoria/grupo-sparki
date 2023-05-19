@@ -32,5 +32,6 @@ Exemplo de código em Python:
 O mesmo processo de repete para segunda condição de IF, onde é realizado a leitura para o sensor direito, quando detectado é ligado led RGB BLUE, logo o Sparki move para trás e se redireciona para ir a esquerda no angulo de 20°.
 Em um ultimo caso, quando nenhuma condição IF é verdadeira o Sparki é direcionado a continar seguindo em frente enquanto não houver uma leitura detectada, por isso temos um loop e delay para que haja um tempo de leitura antes da ação
     
-  ![fluxo](naocair/img/fluxograma_projeto_1.png) 
+  ![fluxo](img/fluxograma_projeto_1.png) 
   
+![Logo do GitHub](https://github.com/github.png)
