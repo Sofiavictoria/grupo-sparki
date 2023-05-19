@@ -1,4 +1,7 @@
 # grupo-sparki
+![sparki](img/sparki.png)
+
+
 Integrantes: 
 - Sofia Victória Bispo da Silva - 202063542
 - Karen Júlia Araújo Espíndola de Almeida - 202017648
