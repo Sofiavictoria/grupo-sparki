@@ -1,5 +1,5 @@
 # grupo-sparki
-![sparki](img/sparki.png)
+![sparki](img/sparki.jpg)
 
 
 Integrantes: 
