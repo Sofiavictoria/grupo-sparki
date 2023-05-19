@@ -1,6 +1,7 @@
 # grupo-sparki
   
   ![sparki](img/sparki.jpg)
+  ![sparki](img/robosparki.avif) 
 
 
 Integrantes: 
