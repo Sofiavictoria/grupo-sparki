@@ -25,3 +25,11 @@ Exemplo de código em Python:
 
 
   [vídeo do robô executando](https://youtu.be/We9_DYo-2kw)
+
+  ## Fluxograma
+  
+  Para melhor visualização das etapas que o Sparki deve realizar, o fluxograma abaixo exemplifica a sequencia e as decisões na qual devem ser seguidas de maneira linear . É inicializado no Void loop com a primeira condição de IF, que representa a leitura do sensor esquerdo, caso tenha detectado algo instantaneamente é ligado o led RGB RED, em seguida o Sparki move para trás e se redireciona para ir a direita em um angulo de 20°
+O mesmo processo de repete para segunda condição de IF, onde é realizado a leitura para o sensor direito, quando detectado é ligado led RGB BLUE, logo o Sparki move para trás e se redireciona para ir a esquerda no angulo de 20°.
+Em um ultimo caso, quando nenhuma condição IF é verdadeira o Sparki é direcionado a continar seguindo em frente enquanto não houver uma leitura detectada, por isso temos um loop e delay para que haja um tempo de leitura antes da ação
+  
+  
